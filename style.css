@@ -1,0 +1,24 @@
+body {
+    background-color: lightgrey
+}
+
+div {
+    width           : 600px;
+    height          : 600px;
+    border          : 1px solid grey;
+    margin          : 25px auto;
+    background-image: url(bgimagememe.jpeg);
+}
+
+#h1 {
+    text-align: center;
+    color     : midnightblue;
+}
+
+#p1 {
+    color: midnightblue;
+}
+
+#p2 {
+    color: midnightblue
+}
